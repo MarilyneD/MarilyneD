@@ -1,3 +1,3 @@
 ### Hi lovely people 🥰
 
-- 🌱 I’m currently learning front end development with OpenClassrooms
+Discover here all my web projects with javascript and React ! Code well & Have fun !
